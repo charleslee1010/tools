@@ -1,4 +1,4 @@
-package tools
+package github.com/charleslee1010/tools
 
 import (
 	"fmt"
